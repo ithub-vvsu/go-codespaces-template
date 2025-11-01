@@ -1,6 +1,6 @@
 # install curl, git, ...
 apt-get update
-apt-get install -y curl git jq
+apt-get install -y curl git jq protobuf-compiler
 
 useradd -m user
 su user
